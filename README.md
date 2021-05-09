@@ -6,7 +6,7 @@ This is a movie nomination application for movie lover.
 
 ## Demo
 
-[Your Cinema Paradiso](http://localhost:3000)
+[Your Cinema Paradiso](http://)
 
 ## Technology Used
 
