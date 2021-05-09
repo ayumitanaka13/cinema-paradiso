@@ -6,7 +6,7 @@ This is a movie nomination application for movie lover.
 
 ## Demo
 
-[Your Cinema Paradiso](http://)
+[Your Cinema Paradiso](https://your-cinema-paradiso.netlify.app/)
 
 ## Technology Used
 
